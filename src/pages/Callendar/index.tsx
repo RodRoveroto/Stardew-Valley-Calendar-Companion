@@ -1,5 +1,10 @@
 import { useEffect, useState } from "react"
 import { Box, Day, DayBox, Item, MonthBox, Npc, Outbox, Reset, SelectDay, Seta } from "./styles"
+import Bee_House from '../../assets/Bee_House.png'
+import seta from '../../assets/seta.png'
+import keg from '../../assets/keg.png'
+import preserves_Jar from '../../assets/Preserves_Jar.png'
+import cask from '../../assets/cask.png'
 import birthdays from '../../assets/mock/birthdays.json'
 let yearArray: Year = { autumn: [], spring: [], summer: [], winter: [] }
 for (let index = 0; index < 28; index++) {
@@ -117,9 +122,9 @@ export function Callendar() {
     return (
         <Outbox>
             <MonthBox>
-                <Seta onClick={() => changeMonth(true)} src='src\assets\Seta.png' alt="" />
+                <Seta onClick={() => changeMonth(true)} src={seta} alt="" />
                 <h1>{activeMonth}</h1>
-                <Seta onClick={() => changeMonth(false)} src='src\assets\Seta.png' alt="" />
+                <Seta onClick={() => changeMonth(false)} src={seta} alt="" />
             </MonthBox>
             <Box>
                 {
@@ -129,18 +134,18 @@ export function Callendar() {
                                 <Day>
                                     {item.day}
                                 </Day>
-                                <Npc src={item.event?.url} alt={item.event?.name}/>
+                                <Npc src={item.event?.url} alt={item.event?.name} />
                                 <SelectDay onClick={() => addEventToDay(index, 'jar')}>
-                                    <Item chama={item.setup.jar?.inicialized} src="src\assets\Preserves_Jar.png" ></Item>
+                                    <Item chama={item.setup.jar?.inicialized} src={preserves_Jar} ></Item>
                                 </SelectDay>
                                 <SelectDay onClick={() => addEventToDay(index, 'keg')}>
-                                    <Item chama={item.setup.keg?.inicialized} src="src\assets\Keg.png" ></Item>
+                                    <Item chama={item.setup.keg?.inicialized} src={keg}></Item>
                                 </SelectDay>
                                 <SelectDay onClick={() => addEventToDay(index, 'plant')}>
-                                    <Item chama={item.setup.plant?.inicialized} src="src\assets\Cask.png" ></Item>
+                                    <Item chama={item.setup.plant?.inicialized} src={cask} ></Item>
                                 </SelectDay>
                                 <SelectDay onClick={() => addEventToDay(index, 'cask')}>
-                                    <Item chama={item.setup.cask?.inicialized} src="src\assets\Bee_House.png" ></Item>
+                                    <Item chama={item.setup.cask?.inicialized} src={Bee_House} ></Item>
                                 </SelectDay>
                             </DayBox>)
                     })
