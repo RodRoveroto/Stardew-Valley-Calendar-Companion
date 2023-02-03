@@ -1,0 +1,180 @@
+{
+    "spring": [
+        {
+            "date": 4,
+            "npc": "Kent",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png"
+        },
+        {
+            "date": 7,
+            "npc": "Lewis",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png"
+        },
+        {
+            "date": 10,
+            "npc": "Vincent",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png"
+        },
+        {
+            "date": 14,
+            "npc": "Haley",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png"
+        },
+        {
+            "date": 18,
+            "npc": "Pam",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png"
+        },
+        {
+            "date": 20,
+            "npc": "Shane",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png"
+        },
+        {
+            "date": 26,
+            "npc": "Pierre",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png"
+        },
+        {
+            "date": 27,
+            "npc": "Emily",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png"
+        }
+    ],
+    "summer": [
+        {
+            "date": 4,
+            "npc": "Jas",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png"
+        },
+        {
+            "date": 8,
+            "npc": "Gus",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png"
+        },
+        {
+            "date": 10,
+            "npc": "Maru",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png"
+        },
+        {
+            "date": 13,
+            "npc": "Alex",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png"
+        },
+        {
+            "date": 17,
+            "npc": "Sam",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png"
+        },
+        {
+            "date": 19,
+            "npc": "Demetrius",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png"
+        },
+        {
+            "date": 22,
+            "npc": "Dwarf",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png"
+        },
+        {
+            "date": 24,
+            "npc": "Willy",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png"
+        },
+        {
+            "date": 26,
+            "npc": "Leo",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png"
+        }
+    ],
+    "autumn": [
+        {
+            "date": 2,
+            "npc": "Penny",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png"
+        },
+        {
+            "date": 5,
+            "npc": "Elliott",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png"
+        },
+        {
+            "date": 11,
+            "npc": "Jodi",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png"
+        },
+        {
+            "date": 13,
+            "npc": "Abigail",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png"
+        },
+        {
+            "date": 15,
+            "npc": "Sandy",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png"
+        },
+        {
+            "date": 18,
+            "npc": "Marnie",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png"
+        },
+        {
+            "date": 21,
+            "npc": "Robin",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png"
+        },
+        {
+            "date": 24,
+            "npc": "George",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/a/ad/,George_Icon.png"
+        }
+    ],
+    "winter": [
+        {
+            "date": 1,
+            "npc": "Krobus",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png"
+        },
+        {
+            "date": 3,
+            "npc": "Linus",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png"
+        },
+        {
+            "date": 7,
+            "npc": "Caroline",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png"
+        },
+        {
+            "date": 10,
+            "npc": "Sebastian",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png"
+        },
+        {
+            "date": 14,
+            "npc": "Harvey",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png"
+        },
+        {
+            "date": 17,
+            "npc": "Wizard",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png"
+        },
+        {
+            "date": 20,
+            "npc": "Evelyn",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png"
+        },
+        {
+            "date": 23,
+            "npc": "Leah",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png"
+        },
+        {
+            "date": 26,
+            "npc": "Clint",
+            "url": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png"
+        }
+    ]
+}
